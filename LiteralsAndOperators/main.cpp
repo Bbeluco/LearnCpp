@@ -14,7 +14,6 @@ int main()
     int a,b;
     a = b = 5;
 
-    2 * 3;
     std::cout << a;
     return 0;
 }
