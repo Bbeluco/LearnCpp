@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699298335 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/NamingColision/main.cpp
+	<iostream>
+
+1699298217 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/NamingColision/a.cpp
+	<iostream>
+
