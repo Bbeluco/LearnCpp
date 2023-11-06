@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699297558 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/SplitBigCode/main.cpp
+	<iostream>
+
+1699297622 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/SplitBigCode/GetInteger.cpp
+	<iostream>
+
