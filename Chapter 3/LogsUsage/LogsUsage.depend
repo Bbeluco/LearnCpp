@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1699389226 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 3/LogsUsage/main.cpp
+	<plog/Log.h>
+	<plog/Initializers/RollingFileInitializer.h>
+	<iostream>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Log.h
+	<plog/Logger.h>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Logger.h
+	<plog/Appenders/IAppender.h>
+	<plog/Util.h>
+	<vector>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Appenders/IAppender.h
+	<plog/Record.h>
+	<plog/Util.h>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Record.h
+	<cstdarg>
+	<plog/Severity.h>
+	<plog/Util.h>
+	<vcclr.h>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Severity.h
+	<cctype>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Util.h
+	<cassert>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	<fcntl.h>
+	<sys/stat.h>
+	<plog/WinApi.h>
+	<time.h>
+	<sys/timeb.h>
+	<io.h>
+	<share.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/syscall.h>
+	<rtems.h>
+	<pthread.h>
+	<iconv.h>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/WinApi.h
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Initializers/RollingFileInitializer.h
+	<plog/Appenders/RollingFileAppender.h>
+	<plog/Formatters/TxtFormatter.h>
+	<plog/Formatters/CsvFormatter.h>
+	<plog/Init.h>
+	<cstring>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Appenders/RollingFileAppender.h
+	<plog/Appenders/IAppender.h>
+	<plog/Converters/UTF8Converter.h>
+	<plog/Converters/NativeEOLConverter.h>
+	<plog/Util.h>
+	<algorithm>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Converters/UTF8Converter.h
+	<plog/Util.h>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Converters/NativeEOLConverter.h
+	<plog/Converters/UTF8Converter.h>
+	<plog/Util.h>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Formatters/TxtFormatter.h
+	<plog/Record.h>
+	<plog/Util.h>
+	<iomanip>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Formatters/CsvFormatter.h
+	<plog/Record.h>
+	<plog/Util.h>
+	<iomanip>
+
+1692525992 /home/bbeluco/Documents/Programming/LearnCpp/Libs/plog/Init.h
+	<plog/Logger.h>
+
