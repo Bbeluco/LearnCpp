@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699384466 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/AddWithTwoNumbers/main.cpp
+	"io.h"
+
+1699384380 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/AddWithTwoNumbers/io.cpp
+	<iostream>
+
+1699384456 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/AddWithTwoNumbers/io.h
+
