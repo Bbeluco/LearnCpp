@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699378915 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/HeaderFiles/add.cpp
+	"add.h"
+
+1699378284 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/HeaderFiles/main.cpp
+	<iostream>
+	"add.h"
+
+1699378074 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 2/HeaderFiles/add.h
+
