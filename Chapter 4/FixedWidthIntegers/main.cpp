@@ -20,7 +20,7 @@ int main()
     //int_least#_t -> Min quantity of bits to store a chosen byte
     std::cout << '\n';
 
-    std::uint_fast8_t sometype {0};
+    std::uint_fast16_t sometype {0};
 
     --sometype;
 
