@@ -17,8 +17,5 @@ int main()
     x++;
 
     std::cout << x << '\n';
-
-    int y = 2'147'483'649;
-    std::cout << y << '\n';
     return 0;
 }
