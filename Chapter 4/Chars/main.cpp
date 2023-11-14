@@ -11,8 +11,5 @@ int main()
     char inp_user{};
     std::cin >> inp_user;
     std::cout << inp_user;
-
-    char32_t test{'ç'};
-    std::cout << test << '\n';
     return 0;
 }
