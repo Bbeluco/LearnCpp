@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700162408 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 5/Strings/main.cpp
+	<iostream>
+	<string>
+
