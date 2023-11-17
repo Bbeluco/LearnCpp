@@ -14,5 +14,19 @@ int main()
 
     constexpr std::string_view c{ "I'm a constant expression" };
     print(c);
+
+
+    std::string_view curtain { "Peach" };
+    std::cout << curtain << '\n';
+
+    curtain.remove_prefix(1);
+    std::cout << curtain << '\n';
+
+    curtain.remove_suffix(2);
+    std::cout << curtain << '\n';
+
+    curtain = "Peach";
+
+    std::cout << curtain << '\n';
     return 0;
 }
