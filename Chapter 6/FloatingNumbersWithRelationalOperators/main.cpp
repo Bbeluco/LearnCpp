@@ -13,10 +13,5 @@ int main()
         std::cout << "y > x" << '\n';
     }
 
-    constexpr double realGravity{ 9.8 };
-    constexpr double fakeGravity{ 9.85 };
-
-    std::cout << (realGravity == fakeGravity) << '\n';
-
     return 0;
 }
