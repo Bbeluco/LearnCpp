@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700488392 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter O/BitManipulationQuizz/main.cpp
+	<bitset>
+	<cstdint>
+	<iostream>
+
