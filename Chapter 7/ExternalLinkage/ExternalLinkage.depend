@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700683961 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/ExternalLinkage/HiFunction.cpp
+	<iostream>
+
+1700683606 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/ExternalLinkage/main.cpp
+
