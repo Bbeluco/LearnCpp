@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1700675460 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/UserDefinedNamespace/Foo.cpp
+	"Foo.h"
+
+1700675488 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/UserDefinedNamespace/main.cpp
+	"Foo.h"
+	"Goo.h"
+	<iostream>
+
+1700674201 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/UserDefinedNamespace/Foo.cpp
+
+1700675306 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/UserDefinedNamespace/Foo.h
+
+1700675379 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/UserDefinedNamespace/Goo.h
+
+1700675471 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/UserDefinedNamespace/Goo.cpp
+	"Goo.h"
+
