@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700682343 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/InternalLinkage/SameVar.cpp
+
+1700682717 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/InternalLinkage/main.cpp
+	<iostream>
+
