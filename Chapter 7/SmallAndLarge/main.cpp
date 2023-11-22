@@ -14,14 +14,14 @@ int main()
     int smaller{get_user_input_value("small")}; // smaller starts
     int larger{get_user_input_value("large")}; // larger starts
 
-    if(larger < smaller) {
+    if(larger < smaller) { //larger and smaller can be seen inside this block
         std::cout << "Swapping the values\n";
-        int aux{larger};
+        int aux{larger}; //aux starts
         larger = smaller;
         smaller = aux;
-    }
+    } //aux ends
 
     std::cout << "SMALL: " << smaller << '\n';
     std::cout << "LARGER: " << larger << '\n';
     return 0;
-}
+}// smaller, larger ends
