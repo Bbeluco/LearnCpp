@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700848578 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/AddConstFileQuiz/main.cpp
+	<iostream>
+	"constants.h"
+
+1700848625 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 7/AddConstFileQuiz/constants.h
+
