@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701216343 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 8/AssertStatment/main.cpp
+	<iostream>
+	<cassert>
+	<cmath>
+
