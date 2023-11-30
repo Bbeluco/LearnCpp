@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701386234 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 8/HiLo/main.cpp
+	<iostream>
+	<limits>
+	"Random.h"
+
+1701382826 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 8/HiLo/Random.h
+	<chrono>
+	<random>
+
