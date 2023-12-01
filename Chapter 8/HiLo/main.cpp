@@ -14,6 +14,7 @@ namespace error_handler {
             return false;
         }
 
+        ignore_buffer_remains();
         return true;
     }
 
