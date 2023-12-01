@@ -5,6 +5,10 @@ int add(int x, int y) {
     return x + y;
 }
 
+auto sub(int x, int y) {
+    return x - y;
+}
+
 int main()
 {
     auto a{3.3}; //auto its like any in typescript
