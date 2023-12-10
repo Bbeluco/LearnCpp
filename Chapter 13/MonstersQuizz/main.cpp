@@ -14,7 +14,7 @@ int main()
 {
     Dungeon::MonsterType monster{Dungeon::skeleton};
 
-    if(monster == skeleton) {
+    if(monster == Dungeon::skeleton) {
         std::cout << "Its a skeleton\n";
     }
     return 0;
