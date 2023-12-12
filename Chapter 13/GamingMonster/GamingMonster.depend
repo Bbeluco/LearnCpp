@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702389775 source:/home/bbeluco/Documents/Programming/LearnCpp/Chapter 13/GamingMonster/main.cpp
+	"MonsterInformation.h"
+	<iostream>
+
+1702389765 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 13/GamingMonster/MonsterInformation.h
+	"TypeMonsters.h"
+	<string>
+
+1702389767 /home/bbeluco/Documents/Programming/LearnCpp/Chapter 13/GamingMonster/TypeMonsters.h
+	<string>
+
