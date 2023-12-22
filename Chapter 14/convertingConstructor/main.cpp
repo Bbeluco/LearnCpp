@@ -22,7 +22,7 @@ private:
     std::string m_name{};
 };
 
-std::string_view print(Employee e) {
+void print(Employee e) {
     std::cout << "Name: " << e.getName() << '\n';
 }
 
